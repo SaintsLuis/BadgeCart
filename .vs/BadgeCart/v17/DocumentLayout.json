@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Dev\\.NET-MAUI-projects\\BadgeCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83431E45-5599-4447-A3C0-619A86CC6BA4}|BadgeCart.csproj|c:\\users\\pc\\dev\\.net-maui-projects\\badgecart\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83431E45-5599-4447-A3C0-619A86CC6BA4}|BadgeCart.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83431E45-5599-4447-A3C0-619A86CC6BA4}|BadgeCart.csproj|c:\\users\\pc\\dev\\.net-maui-projects\\badgecart\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83431E45-5599-4447-A3C0-619A86CC6BA4}|BadgeCart.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83431E45-5599-4447-A3C0-619A86CC6BA4}|BadgeCart.csproj|c:\\users\\pc\\dev\\.net-maui-projects\\badgecart\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83431E45-5599-4447-A3C0-619A86CC6BA4}|BadgeCart.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83431E45-5599-4447-A3C0-619A86CC6BA4}|BadgeCart.csproj|c:\\users\\pc\\dev\\.net-maui-projects\\badgecart\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83431E45-5599-4447-A3C0-619A86CC6BA4}|BadgeCart.csproj|solutionrelative:cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83431E45-5599-4447-A3C0-619A86CC6BA4}|BadgeCart.csproj|c:\\users\\pc\\dev\\.net-maui-projects\\badgecart\\badgecart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83431E45-5599-4447-A3C0-619A86CC6BA4}|BadgeCart.csproj|solutionrelative:badgecart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Dev\\.NET-MAUI-projects\\BadgeCart\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Dev\\.NET-MAUI-projects\\BadgeCart\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:34:07.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Dev\\.NET-MAUI-projects\\BadgeCart\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\PC\\Dev\\.NET-MAUI-projects\\BadgeCart\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-17T16:28:20.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartPage.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Dev\\.NET-MAUI-projects\\BadgeCart\\CartPage.xaml",
+              "RelativeDocumentMoniker": "CartPage.xaml",
+              "ToolTip": "C:\\Users\\PC\\Dev\\.NET-MAUI-projects\\BadgeCart\\CartPage.xaml",
+              "RelativeToolTip": "CartPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-17T16:25:01.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BadgeCart",
+              "DocumentMoniker": "C:\\Users\\PC\\Dev\\.NET-MAUI-projects\\BadgeCart\\BadgeCart.csproj",
+              "RelativeDocumentMoniker": "BadgeCart.csproj",
+              "ToolTip": "C:\\Users\\PC\\Dev\\.NET-MAUI-projects\\BadgeCart\\BadgeCart.csproj",
+              "RelativeToolTip": "BadgeCart.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-17T16:24:20.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Dev\\.NET-MAUI-projects\\BadgeCart\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\PC\\Dev\\.NET-MAUI-projects\\BadgeCart\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-17T16:23:09.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

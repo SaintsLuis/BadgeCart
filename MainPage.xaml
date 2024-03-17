@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BadgeCart.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Image
+                Source="dotnet_bot.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot net bot in a race car number eight" />
+
+            <Label
+                Text="Hello, World!"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+
+            <Label
+                Text="Welcome to Tabbar Badge Counter App"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
+                FontSize="18"
+                HorizontalOptions="Center" 
+            />
+
+            <Label 
+                Text="Badge Counter"
+                x:Name="counterLabel"
+                FontSize="20"
+                HorizontalOptions="Center"
+                SemanticProperties.Hint="Counts the number of times you click"
+            />
+
+             <Button
+                Text="Increase Badge Counter" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="IncreaseCounterClicked"
+                HorizontalOptions="Fill" />
+
+             <Button
+                Text="Decrease Badge Counter" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="DecreaseCounterClicked"
+                HorizontalOptions="Fill" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+
+</ContentPage>
